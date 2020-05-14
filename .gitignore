@@ -1,0 +1,17 @@
+.pyc
+*.csv
+*.zip
+*.npz
+*.npy
+*ubyte.gz
+checkpoint
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.log
+local_settings.py
+instance/
+.webassets-cache
+.ipynb_checkpoints
+
